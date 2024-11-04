@@ -1,0 +1,7 @@
+{
+  "name": "news_paper_album",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
